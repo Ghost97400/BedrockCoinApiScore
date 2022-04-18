@@ -1,0 +1,6 @@
+name: BedrockCoinApiScore
+version: 1
+api: 4.0.0
+main: ghost\BedrockCoinApiScore\Main
+author: ghost
+depend: [ScoreHud, BedrockCoinAPI]
